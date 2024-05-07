@@ -1,1 +1,2 @@
 # pruebaTYLA
+int n;
